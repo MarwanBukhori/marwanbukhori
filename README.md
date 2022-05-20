@@ -1,17 +1,21 @@
-### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwanbukhori)](https://github.com/marwanbukhori/github-readme-stats)
-<!--
-**MarwanBukhori/MarwanBukhori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student whos passionate in code & algorithms.
+
+**About me**
+
+- 💼 Student at [National University of Malaysia UKM](http://ukm.com/)
+
+- 💬 Ask me about anything [here](https://github.com/marwanbukhori/marwanbukhori/issues)
+ 
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanbukhori&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marwan's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanbukhori&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
+
+
+</a>
