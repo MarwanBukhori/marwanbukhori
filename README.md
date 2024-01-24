@@ -2,7 +2,7 @@ Hi, I am Marwan :)
 
 <br />
 
-I'm a Software Engineering student whos passionate in code & algorithms.
+I'm a software engineer @terato whos passionate in code & algorithms
 
 **About me**
 
