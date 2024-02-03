@@ -1,12 +1,12 @@
-Hi, I am Marwan :)
+yo marwan here 
 
 <br />
 
-I'm a software engineer @terato whos passionate in code & algorithms
+a software engineer @terato whos passionate in code & algorithms
 
-**About me**
+- i do laravel & vue and right now exploring devop shits
 
-- 💼 Student at [National University of Malaysia UKM](http://ukm.com/)
+- ~~💼 Student at [National University of Malaysia UKM](http://ukm.com/)~~
 
 - 💬 Ask me about anything [here](https://github.com/marwanbukhori/marwanbukhori/issues)
  
