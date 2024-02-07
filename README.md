@@ -4,7 +4,7 @@ yo marwan here
 
 a software engineer @terato whos passionate in code & algorithms
 
-- i do laravel & vue and right now exploring devop shits
+- i do laravel & vue for the time being
 
 - ~~💼 Student at [National University of Malaysia UKM](http://ukm.com/)~~
 
